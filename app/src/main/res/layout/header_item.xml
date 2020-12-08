@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_marginTop="35dp"
+    android:layout_marginBottom="35dp"
+    android:layout_marginStart="50dp"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:text="@string/login_list"
+        android:textSize="28sp"
+        android:letterSpacing="0.03"
+        android:textColor="@color/colorTextMedium"
+        android:fontFamily="@font/roboto_medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
