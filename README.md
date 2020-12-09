@@ -1,4 +1,3 @@
-#Task 1
 <snippet>
   <content><![CDATA[
 # ${1:Task 1}
@@ -7,7 +6,7 @@ This is task 1 in intern assignment @Shoocal
 
 ## Usage
 
-TODO: Write usage instructions
+
 
 ## Contributing
 
