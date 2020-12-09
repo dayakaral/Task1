@@ -6,7 +6,7 @@ This is task 1 in intern assignment @Shoocal
 
 ## Usage
 
-
+![](demo1.gif)
 
 ## Contributing
 
